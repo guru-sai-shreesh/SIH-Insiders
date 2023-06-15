@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.chanduapps.evsolution.ev_solution_frontend",
+  "variantName": "debug",
+  "elements": []
+}
